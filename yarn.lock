@@ -6473,7 +6473,7 @@ number-is-nan@^1.0.0:
   resolved "https://registry.yarnpkg.com/number-is-nan/-/number-is-nan-1.0.1.tgz#097b602b53422a522c1afb8790318336941a011d"
   integrity sha1-CXtgK1NCKlIsGvuHkDGDNpQaAR0=
 
-nuxt-edge@^2.13.0-26482486.631be3a1:
+nuxt-edge@^2.13.0-26496727.6a6794e0:
   version "2.13.0-26496727.6a6794e0"
   resolved "https://registry.yarnpkg.com/nuxt-edge/-/nuxt-edge-2.13.0-26496727.6a6794e0.tgz#bc2b8c91a8db7287a91ab42f830d71cf92194139"
   integrity sha512-+LRft5jjZaRc4BwHjPTA6/CG99knXAfyyQtH4yfaHyzfnTbbxlLAI+cLRPwG6u/nkNcZQ3kcHvtEGq+zdEuLVA==
